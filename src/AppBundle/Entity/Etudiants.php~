@@ -1,0 +1,24 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Etudiants
+ *
+ * @ORM\Table(name="etudiant")
+ * @ORM\Entity(repositoryClass="AppBundle\Repository\EtudiantRepository")
+ */
+class Etudiants extends Utilisateurs
+{
+
+    /**
+     * @var string
+     *
+     * @ORM\ManyToMany(targetEntity="Projets", mappedBy="listeEtufiants")
+     */
+    private $listeProjets;
+
+}
+

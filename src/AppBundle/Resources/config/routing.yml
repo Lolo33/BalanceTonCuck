@@ -1,0 +1,28 @@
+
+liste_projets_etudiant:
+    path:     mes-projets
+    defaults: { _controller: AppBundle:ProjetController:listeProjetsEtudiant }
+
+liste_projets:
+    path:     les-projets
+    defaults: { _controller: AppBundle:ProjetController:listeProjets }
+
+ajouter_projet:
+    path:     nouveau-projet
+    defaults: { _controller: AppBundle:ProjetController:ajouterProjet }
+
+supprimer_projet:
+    path:     supprimer-projet/{id}
+    defaults: { _controller: AppBundle:ProjetController:supprimerProjet }
+
+rejoindre_projet:
+    path:     rejoindre-projet
+    defaults: { _controller: AppBundle:ProjetController:rejoindreProjet }
+
+inscrire_etudiants:
+    path:     inscrire-etudiants
+    defaults: { _controller: AppBundle:InscriptionEtudiants:inscrire }
+
+inscrire_intervenants:
+    path:     inscrire-intervenants
+    defaults: { _controller: AppBundle:InscriptionIntervenants:inscrire }

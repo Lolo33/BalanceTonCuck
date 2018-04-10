@@ -1,0 +1,20 @@
+{% extends "::base.html.twig" %}
+
+{% block title %}AppBundle:InscriptionEtudiants:inscrire{% endblock %}
+
+{% block body %}
+
+    {% extends "FOSUserBundle::layout.html.twig" %}
+
+    {% block fos_user_content %}
+        {% trans_default_domain 'FOSUserBundle' %}
+
+        <form action="{{ path('inscrire_etudiants') }}" {{ form_enctype(form) }} method="POST">
+            {{ form_widget(form) }}
+            <div>
+                <input type="submit" value="{{ 'registration.submit'|trans }}" />
+            </div>
+        </form>
+    {% endblock fos_user_content %}
+
+{% endblock %}

@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e86f7af-d2a1-4769-98fb-7eb364f0af48" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/sessions/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/Flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/Flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/Flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/add-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/alarm-bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/american-football-ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/basketball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/black-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/boat-anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/briefcase-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/brightness-control.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/businessman-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/camera-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/center-alignment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/chain-links.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/check-mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/classic-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/cloud-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/compass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/computer-keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/computer-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/credit-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/cross-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/crosshair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/delete-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/diagonal-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/direction-signs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/document-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/document-with-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/door-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/down-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/download-from-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/dropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/earth-globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/email-outbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/empty-battery-status.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/envelope-with-magnifying-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/envelope-with-pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/expand-window.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/eye-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/find-in-folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/foldable-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/folder-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/football.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/forbidden-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/full-battery-status.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/golf-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/half-moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/heart-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/house-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/ipad-with-blank-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/iron-weight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/left-alignment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/life-preserver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/light-bulb-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/light-bulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/lightning-flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/loading-circles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/location-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/locked-padlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/loudspeaker-high-volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/loudspeaker-low-volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/loudspeaker-medium-volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/low-battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mac-window-with-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mac-window.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mac-windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/magnifying-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mail-envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mark-as-favourite-star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/medium-charge-battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mountain-painting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mountain-range.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/mouse-peripheral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/move-tool-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/ocean-waves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/paper-clip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/pencil-and-paper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/pencil-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/pie-chart-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/pie-chart-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/pie-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/plane-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/play-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/price-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/printer-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/rain-umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/raining-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/reply-email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/right-alignment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/round-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/rss-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/rubbish-bin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/sailboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/save-file-floppy-disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/security-badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/settings-cogwheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/sheet-box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/shining-sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/shining.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/shopping-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/shopping-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/shut-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/signal-waves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/sixteenth-notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/smartphone-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/snowflake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/speech-bubble-with-ellipsis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/speech-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/speech-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/sport-trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/statistical-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/sun-and-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/t-shirt-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/text-document-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/text-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/text-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/text-lines-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/text-lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/timetable-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/traffic-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/unlocked-padlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/up-and-down-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/up-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/update-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/update-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/upload-to-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/user-outline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/volume-speaker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/water-drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/wifi-signal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/working-briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/wrench-tool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/zoom-out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/png/zoom-tool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/add-document.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/alarm-bell.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/american-football-ball.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/basketball.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/black-square.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/boat-anchor.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/briefcase-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/brightness-control.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/businessman-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/calendar.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/camera-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/center-alignment.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/chain-links.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/check-mark.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/classic-phone.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/clipboard.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/clock.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/cloud-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/compass.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/computer-keyboard.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/computer-screen.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/credit-card.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/cross-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/crosshair.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/delete-document.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/diagonal-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/direction-signs.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/document-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/document-with-arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/door-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/down-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/download-from-cloud.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/dropper.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/earth-globe.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/email-outbox.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/empty-battery-status.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/envelope-with-magnifying-glass.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/envelope-with-pencil.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/expand-window.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/eye-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/find-in-folder.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/foldable-map.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/folder-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/football.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/forbidden-sign.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/full-battery-status.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/golf-flag.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/half-moon.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/heart-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/house-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/ipad-with-blank-screen.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/iron-weight.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/left-alignment.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/left-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/life-preserver.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/light-bulb-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/light-bulb.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/lightning-flash.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/loading-circles.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/location-marker.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/locked-padlock.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/loudspeaker-high-volume.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/loudspeaker-low-volume.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/loudspeaker-medium-volume.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/low-battery.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mac-window-with-arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mac-window.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mac-windows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/magnifying-glass.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mail-envelope.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mark-as-favourite-star.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/medium-charge-battery.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/microphone.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mountain-painting.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mountain-range.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/mouse-peripheral.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/move-tool-arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/ocean-waves.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/paper-clip.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/pencil-and-paper.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/pencil-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/pie-chart-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/pie-chart-2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/pie-chart.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/plane-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/play-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/price-tag.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/printer-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/rain-umbrella.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/raining-cloud.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/reply-email.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/right-alignment.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/right-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/round-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/rss-logo.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/rubbish-bin.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/sailboat.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/save-file-floppy-disk.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/security-badge.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/settings-cogwheel.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/sheet-box.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/shining-sun.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/shining.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/shopping-bag.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/shopping-cart.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/shut-down.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/signal-waves.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/sixteenth-notes.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/smartphone-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/snowflake.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/speech-bubble-with-ellipsis.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/speech-bubble.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/speech-bubbles.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/sport-trophy.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/statistical-chart.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/sun-and-cloud.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/t-shirt-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/text-document-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/text-document.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/text-documents.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/text-lines-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/text-lines.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/timetable-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/traffic-sign.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-4.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-5.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock-6.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/unlocked-padlock.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/up-and-down-arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/up-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/update-arrow.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/update-arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/upload-to-cloud.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/user-outline.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/volume-speaker.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/water-drop.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/wifi-signal.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/working-briefcase.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/wrench-tool.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/zoom-out.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/psd/zoom-tool.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/business/2/contracts/contract.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/fond_bois.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/0c770874571b95079be0537e3512d126.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518781234_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518781315_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518781387_margherita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518781484_margherita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518781542_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518782402_entrecote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518785690_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518785772_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518785790_margherita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1518785806_reine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/1522764481_hids_inconv.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/e99e99cf6f099e4a06d7f3ebf42f8c5d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/ea2aa4284f134479ad03b7a235f1bbb7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/restaurants/1/products/salade_caesar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/sounds/notif.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workshop.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/register_content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/symfony_requirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Etudiants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Intervenants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Projets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/ResponsablesPedago.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Utilisateurs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/EtudiantRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/IntervenantsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/ProjetsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/ResponsablePedagoRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/UtilisateursRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_etudiants.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_intervenants.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/add-document.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/alarm-bell.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/american-football-ball.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/basketball.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/black-square.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/boat-anchor.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/briefcase-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/brightness-control.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/businessman-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/calendar.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/camera-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/center-alignment.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/chain-links.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/check-mark.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/classic-phone.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/clipboard.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/clock.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/cloud-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/compass.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/computer-keyboard.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/computer-screen.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/credit-card.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/cross-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/crosshair.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/delete-document.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/diagonal-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/direction-signs.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/document-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/document-with-arrows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/door-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/down-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/download-from-cloud.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/dropper.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/earth-globe.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/email-outbox.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/empty-battery-status.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/envelope-with-magnifying-glass.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/envelope-with-pencil.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/expand-window.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/eye-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/find-in-folder.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/foldable-map.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/folder-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/football.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/forbidden-sign.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/full-battery-status.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/golf-flag.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/half-moon.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/heart-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/house-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/ipad-with-blank-screen.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/iron-weight.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/left-alignment.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/left-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/life-preserver.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/light-bulb-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/light-bulb.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/lightning-flash.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/loading-circles.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/location-marker.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/locked-padlock.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/loudspeaker-high-volume.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/loudspeaker-low-volume.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/loudspeaker-medium-volume.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/low-battery.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mac-window-with-arrows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mac-window.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mac-windows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/magnifying-glass.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mail-envelope.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mark-as-favourite-star.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/medium-charge-battery.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/microphone.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mountain-painting.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mountain-range.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/mouse-peripheral.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/move-tool-arrows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/ocean-waves.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/paper-clip.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/pencil-and-paper.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/pencil-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/pie-chart-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/pie-chart-2.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/pie-chart.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/plane-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/play-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/price-tag.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/printer-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/rain-umbrella.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/raining-cloud.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/reply-email.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/right-alignment.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/right-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/round-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/rss-logo.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/rubbish-bin.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/sailboat.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/save-file-floppy-disk.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/security-badge.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/settings-cogwheel.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/sheet-box.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/shining-sun.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/shining.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/shopping-bag.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/shopping-cart.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/shut-down.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/signal-waves.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/sixteenth-notes.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/smartphone-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/snowflake.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/speech-bubble-with-ellipsis.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/speech-bubble.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/speech-bubbles.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/sport-trophy.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/statistical-chart.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/sun-and-cloud.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/t-shirt-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/text-document-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/text-document.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/text-documents.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/text-lines-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/text-lines.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/timetable-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/traffic-sign.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-2.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-3.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-4.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-5.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock-6.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/unlocked-padlock.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/up-and-down-arrows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/up-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/update-arrow.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/update-arrows.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/upload-to-cloud.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/user-outline.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/volume-speaker.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/water-drop.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/wifi-signal.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/working-briefcase.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/wrench-tool.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/zoom-out.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/eps/zoom-tool.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/Flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/_flaticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/font/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/license/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/add-document.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/alarm-bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/american-football-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/basketball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/black-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/boat-anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/briefcase-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/brightness-control.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/businessman-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/camera-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/center-alignment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/chain-links.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/check-mark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/classic-phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/cloud-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/computer-keyboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/computer-screen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/cross-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/crosshair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/delete-document.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/diagonal-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/direction-signs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/document-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/document-with-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/door-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/down-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/download-from-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/dropper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/earth-globe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/email-outbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/empty-battery-status.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/envelope-with-magnifying-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/envelope-with-pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/expand-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/eye-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/find-in-folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/foldable-map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/folder-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/football.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/forbidden-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/full-battery-status.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/golf-flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/half-moon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/heart-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/house-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/ipad-with-blank-screen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/iron-weight.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/left-alignment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/left-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/life-preserver.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/light-bulb-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/light-bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/lightning-flash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/loading-circles.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/location-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/locked-padlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/loudspeaker-high-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/loudspeaker-low-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/loudspeaker-medium-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/low-battery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mac-window-with-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mac-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mac-windows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/magnifying-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mail-envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mark-as-favourite-star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/medium-charge-battery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mountain-painting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mountain-range.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/mouse-peripheral.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/move-tool-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/ocean-waves.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/paper-clip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/pencil-and-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/pencil-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/pie-chart-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/pie-chart-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/pie-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/plane-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/play-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/price-tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/printer-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/rain-umbrella.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/raining-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/reply-email.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/right-alignment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/right-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/round-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/rss-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/rubbish-bin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/sailboat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/save-file-floppy-disk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/security-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/settings-cogwheel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/sheet-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/shining-sun.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/shining.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/shopping-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/shut-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/signal-waves.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/sixteenth-notes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/smartphone-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/snowflake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/speech-bubble-with-ellipsis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/speech-bubble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/speech-bubbles.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/sport-trophy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/statistical-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/sun-and-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/t-shirt-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/text-document-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/text-document.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/text-documents.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/text-lines-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/text-lines.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/timetable-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/traffic-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock-6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/unlocked-padlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/up-and-down-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/up-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/update-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/update-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/upload-to-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/user-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/volume-speaker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/water-drop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/wifi-signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/working-briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/wrench-tool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/icons/svg/zoom-tool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.12.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="InscriptionIntervenantsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/InscriptionIntervenantsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UtilisateursType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/UtilisateursType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntervenantsType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/IntervenantsType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="e#34#84#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EtudiantsType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/EtudiantsType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#34#84#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponsablesPedagoType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/ResponsablesPedagoType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_content.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login_content.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/SecurityController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inscrire.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/InscriptionIntervenants/inscrire.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InscriptionEtudiantsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/InscriptionEtudiantsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="53" />
+              <folding>
+                <element signature="e#40#73#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Ty</find>
+      <find>login</find>
+      <find>/login</find>
+      <find>bande</find>
+      <find>titre</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/ResponsablePedago.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Etudiant.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Projets.php" />
+        <option value="$PROJECT_DIR$/web/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/../CMR/gestion/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/AppCache.php" />
+        <option value="$PROJECT_DIR$/var/logs/dev.log" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Utilisateurs.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/security.xml" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/web/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/ResponsablesPedago.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Intervenants.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Etudiants.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_intervenants.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_etudiants.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/InscriptionEtudiantsController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/InscriptionEtudiants/inscrire.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/InscriptionIntervenantsController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/EtudiantsType.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/IntervenantsType.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="width" value="1924" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twig" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twig" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Security" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resetting" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetController" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InscriptionIntervenants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InscriptionEtudiants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inscription" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\workshop\app\Resources" />
+      <recent name="C:\wamp\www\workshop\vendor" />
+      <recent name="C:\wamp\www\workshop" />
+      <recent name="C:\wamp\www\workshop\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e86f7af-d2a1-4769-98fb-7eb364f0af48" name="Default" comment="" />
+      <created>1523266700495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523266700495</updated>
+      <workItem from="1523266701644" duration="7827000" />
+      <workItem from="1523298351847" duration="9972000" />
+      <workItem from="1523348337253" duration="12246000" />
+      <workItem from="1523373109210" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31245000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1924" height="1032" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/LastLoginListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/EmailConfirmationListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="64" column="53" lean-forward="false" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ChangePasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ResettingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/TemplateController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/logs/dev.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="583" column="79" lean-forward="false" selection-start-line="583" selection-start-column="79" selection-end-line="583" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CMR/gestion/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CMR/gestion/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CMR/gestion/src/AppBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppCache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CMR/gestion/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/profile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Utilisateurs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/ResponsablesPedago.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Intervenants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Etudiants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_intervenants.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="59" column="66" lean-forward="false" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Repository/EtudiantRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/InscriptionEtudiants/inscrire.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Inscription/form_etudiants.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/ProjetController/ajouter_projet.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/InscriptionEtudiantsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="e#40#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/InscriptionIntervenantsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/UtilisateursType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/ResponsablesPedagoType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/EtudiantsType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#34#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/IntervenantsType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#34#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/InscriptionIntervenants/inscrire.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/SecurityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
